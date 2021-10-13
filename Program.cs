@@ -14,7 +14,8 @@ namespace Employeewages
             //UC1Attendance.Attendance();
             //UC2Dailyempwage.DailyEmpWage();
             //UC3Parttimewage.Parttime();
-            UC4Switchcase.Wagebyswitchcase();
+            //UC4Switchcase.Wagebyswitchcase();
+            UC5Wagesformonth.Wagesformonth();
 
         }
 }
