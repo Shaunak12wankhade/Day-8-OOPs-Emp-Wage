@@ -50,6 +50,7 @@
     <Compile Include="UC3Parttimewage.cs" />
     <Compile Include="UC4Switchcase.cs" />
     <Compile Include="UC5Wagesformonth.cs" />
+    <Compile Include="UC6Wagestillnoofworkingdays.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
