@@ -10,7 +10,9 @@ namespace Employeewages
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to employeewages");
+            //Console.WriteLine("Welcome to employeewages");
+            UC1Attendance.Attendance();
+
         }
-    }
+}
 }
