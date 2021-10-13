@@ -13,7 +13,8 @@ namespace Employeewages
             //Console.WriteLine("Welcome to employeewages");
             //UC1Attendance.Attendance();
             //UC2Dailyempwage.DailyEmpWage();
-            UC3Parttimewage.Parttime();
+            //UC3Parttimewage.Parttime();
+            UC4Switchcase.Wagebyswitchcase();
 
         }
 }

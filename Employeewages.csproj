@@ -48,6 +48,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UC1Attendance.cs" />
     <Compile Include="UC3Parttimewage.cs" />
+    <Compile Include="UC4Switchcase.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
