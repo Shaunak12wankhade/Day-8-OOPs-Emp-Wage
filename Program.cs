@@ -16,7 +16,8 @@ namespace Employeewages
             //UC3Parttimewage.Parttime();
             //UC4Switchcase.Wagebyswitchcase();
             //UC5Wagesformonth.Wagesformonth();
-            UC6Wagestillnoofworkingdays.Wagestillnoofworkingdaydays();
+            //UC6Wagestillnoofworkingdays.Wagestillnoofworkingdaydays();
+            UC7Wagesusingclassmethod.Wageusingclassmethod();
 
         }
 }
