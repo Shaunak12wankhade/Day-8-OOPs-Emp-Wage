@@ -19,9 +19,19 @@ namespace Employeewages
             //UC6Wagestillnoofworkingdays.Wagestillnoofworkingdaydays();
             //UC7Wagesusingclassmethod.Wageusingclassmethod();
 
-            UC8Wagesformultiplecompanies.computeEmpWage("DMart", 20, 2, 10);
-            UC8Wagesformultiplecompanies.computeEmpWage("Reliance", 10, 4, 20);
+            //UC8Wagesformultiplecompanies.computeEmpWage("DMart", 20, 2, 10);
+            //UC8Wagesformultiplecompanies.computeEmpWage("Reliance", 10, 4, 20);
+
+            //for UC9
+
+            EmpWageBuilderObject dMart = new EmpWageBuilderObject("DMart", 20, 2, 10);
+            EmpWageBuilderObject reliance = new EmpWageBuilderObject("Reliance", 10, 4, 20);
+            dMart.computeEmpWage();
+            Console.WriteLine(dMart.toString());
+            reliance.computeEmpWage();
+            Console.WriteLine(reliance.toString());
+
 
         }
-}
+    }
 }
