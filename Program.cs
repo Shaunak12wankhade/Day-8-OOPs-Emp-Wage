@@ -17,7 +17,10 @@ namespace Employeewages
             //UC4Switchcase.Wagebyswitchcase();
             //UC5Wagesformonth.Wagesformonth();
             //UC6Wagestillnoofworkingdays.Wagestillnoofworkingdaydays();
-            UC7Wagesusingclassmethod.Wageusingclassmethod();
+            //UC7Wagesusingclassmethod.Wageusingclassmethod();
+
+            UC8Wagesformultiplecompanies.computeEmpWage("DMart", 20, 2, 10);
+            UC8Wagesformultiplecompanies.computeEmpWage("Reliance", 10, 4, 20);
 
         }
 }
